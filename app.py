@@ -9,9 +9,7 @@ from PIL import Image
 os.makedirs("models", exist_ok=True)
 
 MODEL_PATH = "models/skin_classifier.keras"
-
-# Replace this after creating the GitHub Release
-MODEL_URL = "YOUR_GITHUB_RELEASE_DOWNLOAD_LINK"
+MODEL_URL = "https://github.com/successokon-code/CE13_Tinea_Candidiasis_Classifier/releases/download/v1.0.0/skin_classifier.keras"
 
 # Download model if missing
 if (not os.path.exists(MODEL_PATH)) or os.path.getsize(MODEL_PATH) < 1000000:
