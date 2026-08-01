@@ -75,25 +75,56 @@ https://github.com/kingenchanted40-code/CE13_Tinea_Candidiasis_Classifier
 ## Author
 
 **ISUO, BENEDICT EDET**
-Roles
-Member
-Registration Number
-Assigned Role
-ISUO, BENEDICT EDET (Group Leader)
-22/EG/CE/1366
-Project Coordinator and Team Supervisor
-EDUOK DANIEL GODWIN
-22/EG/CE/1396
-Data Acquisition Officer
-BASSEY ODUDU JOHN
-22/EG/CE/1416
-Image Processing Specialist
-MGBEBU, THANKGOD JOSHUA
-22/EG/CE/1386
-AI Model Development Officer
-WILLIE, VICTORIA GODWIN
-22/EG/CE/1406
-User Interface Developer
-MFONMMAENO ANIEKAN ENANG
-22/EG/CE/1376
-Deployment and Technical Documentation Officer
+
+
+Group Members and Assigned Responsibilities
+
+Group Leader
+ISUO, BENEDICT EDET
+Registration Number: 22/EG/CE/1366
+Role: Project Coordinator and Team Supervisor
+Responsibilities:
+Directed the overall execution of the project.
+Distributed assignments among team members.
+Monitored progress and ensured milestones were achieved.
+Verified the final application and approved the project before submission.
+
+1. EDUOK DANIEL GODWIN
+Registration Number: 22/EG/CE/1396
+Role: Data Acquisition Officer
+Responsibilities:
+Obtained the project dataset from the appropriate source.
+Sorted images into their respective categories.
+Checked the dataset for completeness and consistency before training.
+
+2. BASSEY ODUDU JOHN
+Registration Number: 22/EG/CE/1416
+Role: Image Processing Specialist
+Responsibilities:
+Prepared the image dataset for model training.
+Applied resizing, normalization, and image enhancement techniques.
+Configured image generation settings for improved model learning.
+
+3. MGBEBU, THANKGOD JOSHUA
+Registration Number: 22/EG/CE/1386
+Role: AI Model Development Officer
+Responsibilities:
+Designed and implemented the deep learning architecture.
+Carried out model training and validation.
+Monitored learning performance and selected the best-performing model.
+
+4. WILLIE, VICTORIA GODWIN
+Registration Number: 22/EG/CE/1406
+Role: User Interface Developer
+Responsibilities:
+Built the web interface using Streamlit.
+Connected the trained model to the application.
+Developed the prediction interface and result display.
+
+5. MFONMMAENO ANIEKAN ENANG
+Registration Number: 22/EG/CE/1376
+Role: Deployment and Technical Documentation Officer
+Responsibilities:
+Published the project to the cloud platform.
+Managed the GitHub repository, releases, and project files.
+Compiled the technical report and validated the deployed application before final delivery.
