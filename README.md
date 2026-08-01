@@ -75,3 +75,25 @@ https://github.com/kingenchanted40-code/CE13_Tinea_Candidiasis_Classifier
 ## Author
 
 **ISUO, BENEDICT EDET**
+Roles
+Member
+Registration Number
+Assigned Role
+ISUO, BENEDICT EDET (Group Leader)
+22/EG/CE/1366
+Project Coordinator and Team Supervisor
+EDUOK DANIEL GODWIN
+22/EG/CE/1396
+Data Acquisition Officer
+BASSEY ODUDU JOHN
+22/EG/CE/1416
+Image Processing Specialist
+MGBEBU, THANKGOD JOSHUA
+22/EG/CE/1386
+AI Model Development Officer
+WILLIE, VICTORIA GODWIN
+22/EG/CE/1406
+User Interface Developer
+MFONMMAENO ANIEKAN ENANG
+22/EG/CE/1376
+Deployment and Technical Documentation Officer
